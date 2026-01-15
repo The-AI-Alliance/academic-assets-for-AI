@@ -3,7 +3,7 @@ description: You aren't reporting a bug, etc., just asking a question.
 title: "[Question] "  
 labels: question  
 assignees: [deanwampler]
-projects: [/39]
+projects: [The-AI-Alliance/39]
 body:
 - type: checkboxes
   attributes:
