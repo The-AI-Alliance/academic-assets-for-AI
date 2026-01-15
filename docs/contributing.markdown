@@ -22,14 +22,14 @@ For general information about contributing to AI Alliance projects, visit [this 
 
 See also the full list of projects [here](https://the-ai-alliance.github.io/){:target="aia-github"} to find other projects that might interest you.
 
-## Join the Alliance or This Project Work Group
+## Join the Alliance or the Academic Education and Research Forum
 
-Want to join the Academic Education and Research Forum, which holds monthly meetings to discuss AI in academia? help us drive the evolution of this project? Please join our work group or the Alliance as a whole. See [this page](https://www.aialliance.org/join){:target="aia-join"} for more information. If you [join as an individual](https://share.hsforms.com/12dRIKDc5SSGUENOtAstjMgqmmqo){:target="aia-join-indiv"}, be sure to check the box for _Skills, Education, and Exploratory Research WG_. If you want [your organization to join](https://events.thealliance.ai/membership-enquiry){:target="aia-join-org"}, mention the forum in the _Membership Interest_ box.
+The _Academic Education and Research Forum_ holds monthly meetings to discuss AI in academia. Would you like to join the forum or the AI Alliance itself? 
 
-## Other Notes on Contributing
+See [this Alliance page](https://www.aialliance.org/join){:target="aia-join"} for more information. If you [join as an individual](https://share.hsforms.com/12dRIKDc5SSGUENOtAstjMgqmmqo){:target="aia-join-indiv"}, be sure to check the box for _Skills, Education, and Exploratory Research Work Group_. Your organization can also [join the Alliance](https://events.thealliance.ai/membership-enquiry){:target="aia-join-org"}.
+
+## Technical Notes on Contributing
 
 The sources for this website are in the GitHub repo's [`docs`](https://github.com/The-AI-Alliance/academic-assets-for-AI/tree/main/docs){:target="repo-docs"} directory. 
-
-Notice that every page on this website has an _Edit this page on GitHub_ link to the corresponding location for the page in the GitHub repo, making it easy to view a page, then go straight to the source, make edits, and submit a PR! This is the best way to help us fix typos and make other small improvements.
 
 This documentation is built with [GitHub Pages](https://pages.github.com/){:target="github-pages"}, which uses [Jekyll](https://github.com/jekyll/jekyll){:target="gh-jekyll"} to serve the website. We use the [Just the Docs](https://just-the-docs.github.io/just-the-docs/){:target="just-the-docs"} Jekyll theme. See the repo file [`GITHUB_PAGES.md`](https://github.com/The-AI-Alliance/academic-assets-for-AI/tree/main/GITHUB_PAGES.md){:target="_blank"} for more information, including how you can run the website locally to test any changes.

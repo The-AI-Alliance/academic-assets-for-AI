@@ -7,78 +7,75 @@ has_children: false
 
 # Academic Assets for AI
 
-Welcome to the **The AI Alliance**: **Academic Assets for AI**. 
+Welcome to the **The AI Alliance**: **Academic Assets for AI**, a project of the _Academic Education and Research Forum_ of [The AI Alliance](https://www.aialliance.org){:target="aia"}. 
 
 {: .tip }
 > **TIPS:** 
 > 1. Use the search box at the top of this page to find specific content.
-> 2. The links for Capitalized Terms go to [this glossary]({{site.glossaryurl}}){:target="_glossary"}.
+> 2. Links for &ldquo;Capitalized Terms&rdquo; go to [this glossary]({{site.glossaryurl}}){:target="_glossary"}.
+
+This website catalogs publicly-available assets from academic institutions on how to safely and effectively use AI in education and research. These assets include guidelines adopted at various institutions, courseware, degree programs, etc.
 
 
 {: .attention }
-> We are looking for collaborators. Please join us! See our [contributing]({{site.baseurl}}/contributing) page for details.
+> We welcome your content! We also welcome new members to the forum!
+>
+> The fastest way to add information about your assets to an existing page is to click the _Edit this page on GitHub_ link at the bottom of the appropriate page. GitHub will show you the page and let you make edits, then submit a _pull request_. For other ways to add content or to join our discussion forum, see our [contributing]({{site.baseurl}}/contributing) page.
+
+# The Academic Asset Catalog
 
 {: .note }
-> **NOTE:** This is a work-in-progress website for the Academic Assets for AI.
+> **NOTE:** The assets cataloged may have copyright or other limits on usage. Be sure to consult an asset's documentation for details.  
 
-{: .important }
-> **IMPORTANT:** The "boilerplate" text on this page mixes content you might want to use, as well as tips on writing Markdown. See also the comments in the source files. Make sure you search for and change all TODOs on all the pages!
+The list of assets include quotes to provide additional context.
 
-{: .warning }
-> **WARNING!** This is a warning! Don't forgot to clean up the TODOs!
+## Organizations Focused on AI in Academia
 
-A _generic_ quote:
+[Alliance for Data Science and AI](https://alliance4datascience.ai/){:target="_blank"}
 
-> Shakespeare once wrote, "Heavy is the head that wears the crown."
+> ADSA is a professional association for data science and AI in higher ed. We support academic institutions to launch, grow, and evolve their data science and AI initiatives through strategic guidance, community expertise, and resources grounded in real institutional practice.
 
-This site is organized into the following sections [^1] (with an example footnote):
+## Guidelines for the Use of AI in the Classroom
 
-* [TODO - second top-level page]({{site.baseurl}}/second_page)
-    * [alternative link](second_page)
-* [TODO - nested]({{site.baseurl}}/nested/)
+### University of Texas at Austin
 
-Note how relative links are written. For siblings (like the next set of bullets...) or subpages, you don't have to use the `{{site.baseurl}}` prefix (like the `alternative link`), but use `{{site.baseurl}}` instead of relative navigation hacks like `../../foo/bar`.
+[Acceptable Use of ChatGPT and Similar AI Tools](https://security.utexas.edu/ai-tools){:target="_blank"}
 
-## Section Two
+> With the increasing integration of artificial intelligence (AI) tools—such as ChatGPT, Copilot, Bard Gemini, Claude and other generative AI applications known as large language models (LLM), diffusion models, or generative AI applications—into university activities, it's essential to use these technologies responsibly. This guidance ... outlines acceptable practices for utilizing generative AI tools while safeguarding institutional, personal, and proprietary information.
 
-A Python code block:
+[ChatGPT and Generative AI Tools: Sample Syllabus Policy Statements](https://ctl.utexas.edu/chatgpt-and-generative-ai-tools-sample-syllabus-policy-statements){:target="_blank"}
 
-```python
-def flibulate_the_ganzinator(how_much):
-  pass
-```
+> ... While generative AI tools can offer inspiration and new possibilities, they should not be seen as unacknowledged substitutes for the content created by students in their courses... [We] recommend that UT faculty and instructors decide whether or not these tools fit within their pedagogical aims and clearly state their course policies in a designated section of their syllabi...
+
+### Unesco
+
+[AI competency framework for teachers](https://unesdoc.unesco.org/ark:/48223/pf0000391104){:target="_blank"}
+
+> Guiding teachers on AI use and misuse in education.
+
+### Cornell
+
+Cornell created three task forces on the use of generative AI for research, education, and administration. Each task force created a report that can be found [here](https://ai.cornell.edu/generative-ai/){:target="_blank"}.
+
+> Nobody knows the true impact that generative AI will have on education and research. These technologies are rapidly evolving in complexity and type of use. What we do know is that generative AI is opening up a world of possibilities, while also generating significant concerns about academic integrity, ethics, access and bias.
+
+### ETH Zürich 
+
+The ETH Zürich library team created a web site [AI in Teaching and Learning](https://ethz.ch/en/the-eth-zurich/education/ai-in-education.html){:target="_blank"} on using AI ethically and effectively.
+  
+> ETH Zurich advocates a proactive approach to the use of generative AI (GenAI) within educational contexts, emphasising the responsible use of this technology among students and lecturers.
+
+
+
 
 ## Additional links
 
-Some additional links.[^2]
+Some additional links.
 
 * [Contributing]({{site.baseurl}}/contributing): We welcome your contributions! Here's how you can contribute.
 * [About Us]({{site.baseurl}}/about): More about the AI Alliance and this project.
 * [Project GitHub Repo](https://github.com/The-AI-Alliance/academic-assets-for-AI){:target="repo"}
 * [The AI Alliance](https://www.aialliance.org){:target="aia"}: The AI Alliance website.
-
-Note our convention that external URLs include a target, specified with `{:target="some_name"}`. Adding these targets means browsers will automatically open external links in a new tab. You will also notice that external links get a little box and arrow adornment. This is done automatically through a clever CSS hack in `docs/_includes/css/custom.scss.liquid`.
-
-A table example using standard Markdown and showing how to set the desired alignment. (The extra whitespace in the source is only for easier readability.):
-
-| Column 1 (Left Aligned) | Column 2 (Centered) | Column 3 (Numbers - Right Aligned) |
-| :------- | :------------------: | -----: |
-| text 1   | centered             | 1      |
-| text 2   | also centered        | 20     |
-| text 3   | and this is centered | 300    |
-
-[^1]: Use `[^N]` (for increasing `N` values) to mark "footnote #N" in text, as shown above. This is an example footnote with a link to it from above, and a link at the end of the footnote to go back to the point in the text (the "curled" arrow). **WARNING**, you must include the colon in the footnote definition as shown here, `[^1]:`.
-[^2]: A second example footnote. Note that you don't need to put a blank line between them; they work like lists.
-
-<!-- 
-Use the following construct anywhere in the page to automatically
-show a table of contents for the sections on the page. This is 
-_different_ than a list of child pages (i.e., separate markdown files).
-That list is always shown at the bottom automatically, as defined in
-the default.html template file.
--->
-
-| **Last Update** | {{site.last_version}}, {{site.last_modified_timestamp}} |
 
 ---
 
