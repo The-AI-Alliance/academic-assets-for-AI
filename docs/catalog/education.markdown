@@ -15,24 +15,7 @@ Some of the resources listed below also cover [research use of AI]({{site.baseur
 
 ## Guidelines for Educational Use of AI
 
-### University of Texas at Austin
-
-[Acceptable Use of ChatGPT and Similar AI Tools](https://security.utexas.edu/ai-tools){:target="_blank"}
-
-{: .attention}
-> **Quote:** With the increasing integration of artificial intelligence (AI) tools—such as ChatGPT, Copilot, Bard Gemini, Claude and other generative AI applications known as large language models (LLM), diffusion models, or generative AI applications—into university activities, it's essential to use these technologies responsibly. This guidance ... outlines acceptable practices for utilizing generative AI tools while safeguarding institutional, personal, and proprietary information.
-
-[ChatGPT and Generative AI Tools: Sample Syllabus Policy Statements](https://ctl.utexas.edu/chatgpt-and-generative-ai-tools-sample-syllabus-policy-statements){:target="_blank"}
-
-{: .attention}
-> **Quote:** ... While generative AI tools can offer inspiration and new possibilities, they should not be seen as unacknowledged substitutes for the content created by students in their courses... [We] recommend that UT faculty and instructors decide whether or not these tools fit within their pedagogical aims and clearly state their course policies in a designated section of their syllabi...
-
-### Unesco
-
-[AI competency framework for teachers](https://unesdoc.unesco.org/ark:/48223/pf0000391104){:target="_blank"}
-
-{: .attention}
-> **Quote:** Guiding teachers on AI use and misuse in education.
+Several institutions have published guidelines for AI use in education.
 
 ### Cornell
 
@@ -55,7 +38,30 @@ St John’s University's [Artificial Intelligence (AI) Policies, Guidelines & Re
 {: .attention}
 > **Quote:** Through hands-on learning, real-world applications, and ethical guidance, we integrate AI across disciplines to prepare the next generation of innovators and leaders. Whether in the classroom, the workplace, or in collaboration with industry partners, we leverage AI to solve problems, spark creativity, and drive meaningful progress. 
 
-### US State of Utah
+### Unesco
+
+[AI competency framework for teachers](https://unesdoc.unesco.org/ark:/48223/pf0000391104){:target="_blank"}
+
+{: .attention}
+> **Quote:** Guiding teachers on AI use and misuse in education.
+
+### University of Texas at Austin
+
+[Acceptable Use of ChatGPT and Similar AI Tools](https://security.utexas.edu/ai-tools){:target="_blank"}
+
+{: .attention}
+> **Quote:** With the increasing integration of artificial intelligence (AI) tools—such as ChatGPT, Copilot, Bard Gemini, Claude and other generative AI applications known as large language models (LLM), diffusion models, or generative AI applications—into university activities, it's essential to use these technologies responsibly. This guidance ... outlines acceptable practices for utilizing generative AI tools while safeguarding institutional, personal, and proprietary information.
+
+[ChatGPT and Generative AI Tools: Sample Syllabus Policy Statements](https://ctl.utexas.edu/chatgpt-and-generative-ai-tools-sample-syllabus-policy-statements){:target="_blank"}
+
+{: .attention}
+> **Quote:** ... While generative AI tools can offer inspiration and new possibilities, they should not be seen as unacknowledged substitutes for the content created by students in their courses... [We] recommend that UT faculty and instructors decide whether or not these tools fit within their pedagogical aims and clearly state their course policies in a designated section of their syllabi...
+
+### University of Virginia
+
+UVA has published [responsible use guidelines](https://virginia.service-now.com/its?id=itsweb_kb_article&sys_id=8a0050d847fac610bb2b9c7b116d4317){:target="uva"} to guide users of AI.
+
+### Utah in the United States
 
 The Utah State Board of Education published their [Artificial Intelligence](https://schools.utah.gov/informationtechnology/artificialintelligence/index){:target="_blank"} guidelines for secondary (e.g., high school) teachers and schools.
 
@@ -81,9 +87,9 @@ bachelor’s degree in Mathematical Engineering and Artificial Intelligence.
 
 [This presentation (PDF)]({{site.baseurl}}/catalog/Comillas-Masters-Degree-in-AI.pdf){:target="pdf"} describes iMAT.
 
-## AI Courseware and Learning Opportunities
+## Other AI Courseware and Learning Opportunities
 
-The following institutions includes those that publish training materials suitable for teaching aspects of AI or offer various learning opportunities for building AI skills.
+Many institutions with close ties to academia publish training materials suitable for teaching aspects of AI or offer various hands-on learning opportunities for building AI skills.
 
 ### Intel
 
@@ -111,3 +117,4 @@ POSSEE provides education-aligned jobs to students and recent graduates in devel
 1. TOC
 {:toc}
 </details>
+
